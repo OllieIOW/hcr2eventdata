@@ -1,4 +1,3 @@
-return [[
 {
     "eventRewards": [
         {
@@ -20466,5 +20465,3 @@ return [[
         }
     ]
 }
-
-]]
