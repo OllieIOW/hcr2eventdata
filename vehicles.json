@@ -526,7 +526,7 @@
     },
     {
       "id": "glider",
-      "allowCustomization": true,
+      "allowCustomization": true
     }
   ]
 }
