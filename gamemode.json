@@ -23,7 +23,13 @@
           "multi_jump/multi_jump_event_8.json",
           "multi_jump/multi_jump_event_9.json",
           "multi_jump/multi_jump_event_10.json",
-          "multi_jump/multi_jump_event_11.json"
+          "multi_jump/multi_jump_event_11.json",
+          "moon_jump/moon_jump_1.json",
+          "moon_jump/moon_jump_2.json",
+          "moon_jump/moon_jump_3.json",
+          "moon_jump/moon_jump_4.json",
+          "moon_jump/moon_jump_5.json",
+          "moon_jump/moon_jump_6.json"
         ]
       ]
     },
