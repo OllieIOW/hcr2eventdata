@@ -1,0 +1,301 @@
+{
+  "eventRewards": [
+    {
+      "rewardCondition": {
+        "criteria": 20,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_xp_boost",
+        "masteryBonusXp": 1000
+      },
+      "maxCollectAmount": 4
+    },
+    {
+      "rewardCondition": {
+        "criteria": 80,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_chest_epic",
+        "chests": [
+          "epic"
+        ]
+      },
+      "maxCollectAmount": 1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 20,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_tuningparts_rare",
+        "tuningParts": [
+          {
+            "amount": 15,
+            "rarity": "rare"
+          }
+        ]
+      },
+      "maxCollectAmount": 5
+    },
+    {
+      "rewardCondition": {
+        "criteria": 60,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_multiplechoice_rare_chest",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "eventScope",
+            "targetIndex": 0
+          },
+          {
+            "chestId": "rare",
+            "vehicleId": "eventScope",
+            "targetIndex": 0
+          },
+          {
+            "chestId": "rare",
+            "vehicleId": "eventScope",
+            "targetIndex": 0
+          }
+        ],
+        "multipleChoice": true
+      },
+      "maxCollectAmount": 2
+    },
+    {
+      "rewardCondition": {
+        "criteria": 40,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_style_shard_rare",
+        "styleShards": [
+          {
+            "amount": 20,
+            "rarity": "rare"
+          }
+        ]
+      },
+      "maxCollectAmount": 1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 40,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_chest_rare",
+        "chests": [
+          "rare"
+        ]
+      },
+      "maxCollectAmount": 2
+    },
+    {
+      "rewardCondition": {
+        "criteria": 20,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_tuningparts_epic",
+        "tuningParts": [
+          {
+            "amount": 2,
+            "rarity": "epic"
+          }
+        ]
+      },
+      "maxCollectAmount": 5
+    },
+    {
+      "rewardCondition": {
+        "criteria": 40,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_style_shard_epic_40",
+        "styleShards": [
+          {
+            "amount": 4,
+            "rarity": "epic"
+          }
+        ]
+      },
+      "maxCollectAmount": 1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 40,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_adventure_token",
+        "currencies": [
+          {
+            "currency": "adventure_token",
+            "amount": 100
+          }
+        ]
+      },
+      "maxCollectAmount": 1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 20,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_chest_common",
+        "chests": [
+          "common"
+        ]
+      },
+      "maxCollectAmount": 3
+    },
+    {
+      "rewardCondition": {
+        "criteria": 50,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_special_ticket",
+        "currencies": [
+          {
+            "currency": "special_tickets",
+            "amount": 1
+          }
+        ]
+      },
+      "maxCollectAmount": 2
+    },
+    {
+      "rewardCondition": {
+        "criteria": 5,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_tuningpart_common",
+        "tuningParts": [
+          {
+            "amount": 5,
+            "rarity": "common"
+          }
+        ]
+      },
+      "maxCollectAmount": 50
+    },
+    {
+      "rewardCondition": {
+        "criteria": 10,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_coins",
+        "coinAmount": 2000
+      },
+      "maxCollectAmount": 5
+    },
+    {
+      "rewardCondition": {
+        "criteria": 25,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_scrap",
+        "currencies": [
+          {
+            "currency": "scrap",
+            "amount": 200
+          }
+        ]
+      },
+      "maxCollectAmount": 5
+    },
+    {
+      "rewardCondition": {
+        "criteria": 60,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_blueprint",
+        "currencies": [
+          {
+            "currency": "vehicle_blueprint",
+            "amount": 20
+          }
+        ]
+      },
+      "maxCollectAmount": 1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 1,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "shop_tuningpart_common1",
+        "tuningParts": [
+          {
+            "amount": 1,
+            "rarity": "common"
+          }
+        ]
+      },
+      "maxCollectAmount": 99
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rank_doubler",
+        "currencies": [
+          {
+            "currency": "rank_doubler",
+            "amount": 400000
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_reroll_parts_token",
+        "currencies": [
+          {
+            "currency": "reroll_parts_token",
+            "amount": 10000
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_video_skips",
+        "currencies": [
+          {
+            "currency": "video_skips",
+            "amount": 500
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    }
+  ]
+}
