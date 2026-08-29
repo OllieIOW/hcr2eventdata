@@ -1,0 +1,61 @@
+{
+  "gameMode": {
+    "duration": 180,
+    "joinWindow": 180,
+    "numberOfParallelSessions": 8,
+    "gameMode": "time-boxed",
+    "levelPool": {
+      "poolOrder": "fixed-order",
+      "levelOrder": "fixed-order",
+      "levelPools": [
+        [
+          "event_gravityflip_01.json",
+          "event_gravityflip_02.json",
+          "event_gravityflip_03.json",
+          "event_gravityflip_04.json",
+          "multi_jump/multi_jump_event_1.json",
+          "multi_jump/multi_jump_event_2.json",
+          "multi_jump/multi_jump_event_3.json",
+          "multi_jump/multi_jump_event_4.json",
+          "multi_jump/multi_jump_event_5.json",
+          "multi_jump/multi_jump_event_6.json",
+          "multi_jump/multi_jump_event_7.json",
+          "multi_jump/multi_jump_event_8.json",
+          "multi_jump/multi_jump_event_9.json",
+          "multi_jump/multi_jump_event_10.json",
+          "multi_jump/multi_jump_event_11.json"
+        ]
+      ]
+    },
+    "maxSessionParticipants": 80,
+    "maxBotCount": 20,
+    "pointsSystem": {
+      "function": "max(10*(1 - 0.8*x), 3)",
+      "type": "score-to-points",
+      "gemsToPointsConversion": 6,
+      "conversionDuration": 86400
+    },
+    "raceType": "race-time",
+    "specialFeatures": [
+      {
+        "id": "gravity_flip",
+        "name": {
+          "value": "Gravity Flip",
+          "localize": "Special feature name"
+        },
+        "description": {
+          "value": "Flips Gravity",
+          "localize": "Special feature description"
+        },
+        "icon": "ui/cocosstudio/upgrades/item_wing_golden.png",
+        "startingLevel": 0,
+        "maxLevels": 1,
+        "amount": {
+          "from": -0.6,
+          "to": -0.6
+        },
+        "mode": 1
+      }
+    ]
+  }
+}
