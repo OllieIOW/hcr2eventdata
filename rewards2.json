@@ -1,0 +1,52 @@
+{
+  "mainEventRewards": [
+    {
+      "rewardCondition": {
+        "criteria": 50,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "free_rare_chest",
+        "chests": [
+          "rare"
+        ]
+      }
+    },
+    {
+      "rewardCondition": {
+        "criteria": 200,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "free_epic_chest",
+        "chests": [
+          "epic"
+        ]
+      }
+    },
+    {
+      "rewardCondition": {
+        "criteria": 400,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "free_legendary_chest",
+        "chests": [
+          "legendary"
+        ]
+      }
+    },
+    {
+      "rewardCondition": {
+        "criteria": 600,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "free_vehicle_unlock_stocker",
+        "unlockVehicles": [
+          "stock"
+        ]
+      }
+    }
+  ],
+}
