@@ -2,18 +2,18 @@
   "eventRewards": [
     {
       "rewardCondition": {
-        "criteria": 20,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
         "id": "shop_xp_boost",
         "masteryBonusXp": 1000
       },
-      "maxCollectAmount": 4
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 80,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -22,11 +22,11 @@
           "epic"
         ]
       },
-      "maxCollectAmount": 1
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 20,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -38,11 +38,11 @@
           }
         ]
       },
-      "maxCollectAmount": 5
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 60,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -66,11 +66,11 @@
         ],
         "multipleChoice": true
       },
-      "maxCollectAmount": 2
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 40,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -82,11 +82,11 @@
           }
         ]
       },
-      "maxCollectAmount": 1
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 40,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -95,11 +95,11 @@
           "rare"
         ]
       },
-      "maxCollectAmount": 2
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 20,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -111,11 +111,11 @@
           }
         ]
       },
-      "maxCollectAmount": 5
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 40,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -127,11 +127,11 @@
           }
         ]
       },
-      "maxCollectAmount": 1
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 40,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -143,11 +143,11 @@
           }
         ]
       },
-      "maxCollectAmount": 1
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 20,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -156,11 +156,11 @@
           "common"
         ]
       },
-      "maxCollectAmount": 3
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 50,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -172,11 +172,11 @@
           }
         ]
       },
-      "maxCollectAmount": 2
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 5,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -188,22 +188,22 @@
           }
         ]
       },
-      "maxCollectAmount": 50
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 10,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
         "id": "shop_coins",
         "coinAmount": 2000
       },
-      "maxCollectAmount": 5
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 25,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -215,11 +215,11 @@
           }
         ]
       },
-      "maxCollectAmount": 5
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 60,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -231,11 +231,11 @@
           }
         ]
       },
-      "maxCollectAmount": 1
+      "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 1,
+        "criteria": 0,
         "type": "score"
       },
       "lootDefinition": {
@@ -244,54 +244,6 @@
           {
             "amount": 1,
             "rarity": "common"
-          }
-        ]
-      },
-      "maxCollectAmount": 99
-    },
-    {
-      "rewardCondition": {
-        "criteria": 0,
-        "type": "score"
-      },
-      "lootDefinition": {
-        "id": "event_reward_rank_doubler",
-        "currencies": [
-          {
-            "currency": "rank_doubler",
-            "amount": 400000
-          }
-        ]
-      },
-      "maxCollectAmount": -1
-    },
-    {
-      "rewardCondition": {
-        "criteria": 0,
-        "type": "score"
-      },
-      "lootDefinition": {
-        "id": "event_reward_reroll_parts_token",
-        "currencies": [
-          {
-            "currency": "reroll_parts_token",
-            "amount": 10000
-          }
-        ]
-      },
-      "maxCollectAmount": -1
-    },
-    {
-      "rewardCondition": {
-        "criteria": 0,
-        "type": "score"
-      },
-      "lootDefinition": {
-        "id": "event_reward_video_skips",
-        "currencies": [
-          {
-            "currency": "video_skips",
-            "amount": 500
           }
         ]
       },
