@@ -269,61 +269,61 @@
         {
           "id": "stock_start_boost",
           "level": 3,
-          "upgradeMaxLevel": 10,
+          "upgradeMaxLevel": 40,
           "levelUpsPerPurchase": 2
         },
         {
           "id": "stock_magnet",
           "level": 5,
-          "upgradeMaxLevel": 15,
+          "upgradeMaxLevel": 40,
           "levelUpsPerPurchase": 2
         },
         {
           "id": "stock_perfect_landing_boost",
           "level": 2,
-          "upgradeMaxLevel": 7,
+          "upgradeMaxLevel": 40,
           "levelUpsPerPurchase": 2
         },
         {
           "id": "stock_nitro",
           "level": 1,
-          "upgradeMaxLevel": 4,
+          "upgradeMaxLevel": 40,
           "levelUpsPerPurchase": 1
         },
         {
           "id": "stock_fuel_boost",
           "level": 1,
-          "upgradeMaxLevel": 4,
+          "upgradeMaxLevel": 40,
           "levelUpsPerPurchase": 1
         },
         {
           "id": "stock_coin_boost",
           "level": 1,
-          "upgradeMaxLevel": 4,
+          "upgradeMaxLevel": 40,
           "levelUpsPerPurchase": 1
         },
         {
           "id": "stock_fume_boost",
           "level": 3,
-          "upgradeMaxLevel": 10,
+          "upgradeMaxLevel": 40,
           "levelUpsPerPurchase": 2
         },
         {
           "id": "stock_winter_tyres",
           "level": 5,
-          "upgradeMaxLevel": 15,
+          "upgradeMaxLevel": 40,
           "levelUpsPerPurchase": 2
         },
         {
           "id": "stock_jump",
           "level": 3,
-          "upgradeMaxLevel": 10,
+          "upgradeMaxLevel": 40,
           "levelUpsPerPurchase": 2
         },
         {
           "id": "stock_afterburner",
           "level": 2,
-          "upgradeMaxLevel": 7,
+          "upgradeMaxLevel": 40,
           "levelUpsPerPurchase": 2
         }
       ],
