@@ -73,10 +73,10 @@
         14
       ],
       "upgradeMaxLevels": [
-        20,
-        20,
-        20,
-        20
+        25,
+        25,
+        25,
+        25
       ],
       "levelUpsPerPurchase": 5,
       "upgradeCurveOverride": "linear",
@@ -133,7 +133,7 @@
     },
     {
       "id": "dunebuggy",
-      "allowCustomization": false,
+      "allowCustomization": true,
       "availableTuningParts": [
         {
           "id": "dunebuggy_start_boost",
@@ -204,10 +204,10 @@
         14
       ],
       "upgradeMaxLevels": [
-        20,
-        20,
-        20,
-        20
+        25,
+        25,
+        25,
+        25
       ],
       "levelUpsPerPurchase": 5,
       "upgradeCurveOverride": "linear",
@@ -264,7 +264,7 @@
     },
     {
       "id": "stock",
-      "allowCustomization": false,
+      "allowCustomization": true,
       "availableTuningParts": [
         {
           "id": "stock_start_boost",
@@ -335,10 +335,10 @@
         14
       ],
       "upgradeMaxLevels": [
-        20,
-        20,
-        20,
-        20
+        25,
+        25,
+        25,
+        25
       ],
       "levelUpsPerPurchase": 5,
       "upgradeCurveOverride": "linear",
@@ -395,7 +395,7 @@
     },
     {
       "id": "musclecar",
-      "allowCustomization": false,
+      "allowCustomization": true,
       "availableTuningParts": [
         {
           "id": "musclecar_start_boost",
@@ -466,10 +466,10 @@
         14
       ],
       "upgradeMaxLevels": [
-        20,
-        20,
-        20,
-        20
+        25,
+        25,
+        25,
+        25
       ],
       "levelUpsPerPurchase": 5,
       "upgradeCurveOverride": "linear",
@@ -523,10 +523,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "glider",
-      "allowCustomization": true
     }
   ]
 }
