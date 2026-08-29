@@ -523,6 +523,101 @@
           ]
         }
       ]
+    },
+    {
+      "id": "glider",
+      "allowCustomization": true,
+      "availableTuningParts": [
+        {
+          "id": "glider_engine",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "glider_propeller",
+          "level": 5,
+          "upgradeMaxLevel": 15,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "glider_fuel_tank",
+          "level": 2,
+          "upgradeMaxLevel": 7,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "glider_wing",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        }
+      ],
+      "tuningPartSlots": 3,
+      "upgradeLevels": [
+        14,
+        14,
+        14,
+        14
+      ],
+      "upgradeMaxLevels": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "levelUpsPerPurchase": 5,
+      "upgradeCurveOverride": "linear",
+      "vehicleUpgradePriceCurve": {
+        "cost": {
+          "currency": "event_points",
+          "amount": 0
+        },
+        "priceCurve": [
+          1,
+          2,
+          3,
+          5
+        ]
+      },
+      "tuningPartUpgradePriceCurves": [
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            1
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            2
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            3
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            5
+          ]
+        }
+      ]
     }
   ]
 }
