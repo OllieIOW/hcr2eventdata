@@ -6,9 +6,9 @@
         "type": "score"
       },
       "lootDefinition": {
-        "id": "free_rare_chest",
-        "chests": [
-          "rare"
+        "id": "free_vehicle_unlock_jeep_4",
+        "unlockVehicles": [
+          "jeep"
         ]
       }
     },
@@ -18,9 +18,9 @@
         "type": "score"
       },
       "lootDefinition": {
-        "id": "free_epic_chest",
-        "chests": [
-          "epic"
+        "id": "free_vehicle_unlock_jeep_3",
+        "unlockVehicles": [
+          "jeep"
         ]
       }
     },
@@ -30,9 +30,9 @@
         "type": "score"
       },
       "lootDefinition": {
-        "id": "free_legendary_chest",
-        "chests": [
-          "legendary"
+        "id": "free_vehicle_unlock_jeep_2",
+        "unlockVehicles": [
+          "jeep"
         ]
       }
     },
@@ -42,7 +42,7 @@
         "type": "score"
       },
       "lootDefinition": {
-        "id": "free_vehicle_unlock_jeep",
+        "id": "free_vehicle_unlock_jeep_1",
         "unlockVehicles": [
           "jeep"
         ]
