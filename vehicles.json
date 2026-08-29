@@ -73,10 +73,10 @@
         14
       ],
       "upgradeMaxLevels": [
-        25,
-        25,
-        25,
-        25
+        40,
+        40,
+        40,
+        40
       ],
       "levelUpsPerPurchase": 5,
       "upgradeCurveOverride": "linear",
@@ -204,10 +204,10 @@
         14
       ],
       "upgradeMaxLevels": [
-        25,
-        25,
-        25,
-        25
+        40,
+        40,
+        40,
+        40
       ],
       "levelUpsPerPurchase": 5,
       "upgradeCurveOverride": "linear",
@@ -335,10 +335,10 @@
         14
       ],
       "upgradeMaxLevels": [
-        25,
-        25,
-        25,
-        25
+        40,
+        40,
+        40,
+        40
       ],
       "levelUpsPerPurchase": 5,
       "upgradeCurveOverride": "linear",
@@ -466,10 +466,10 @@
         14
       ],
       "upgradeMaxLevels": [
-        25,
-        25,
-        25,
-        25
+        40,
+        40,
+        40,
+        40
       ],
       "levelUpsPerPurchase": 5,
       "upgradeCurveOverride": "linear",
