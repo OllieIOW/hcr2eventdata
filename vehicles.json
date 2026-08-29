@@ -1,0 +1,528 @@
+{
+  "fixedVehicles": [
+    {
+      "id": "rally",
+      "allowCustomization": true,
+      "availableTuningParts": [
+        {
+          "id": "rally_start_boost",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "rally_magnet",
+          "level": 5,
+          "upgradeMaxLevel": 15,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "rally_perfect_landing_boost",
+          "level": 2,
+          "upgradeMaxLevel": 7,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "rally_nitro",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "rally_fuel_boost",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "rally_coin_boost",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "rally_fume_boost",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "rally_winter_tyres",
+          "level": 5,
+          "upgradeMaxLevel": 15,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "rally_jump",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "rally_afterburner",
+          "level": 2,
+          "upgradeMaxLevel": 7,
+          "levelUpsPerPurchase": 2
+        }
+      ],
+      "tuningPartSlots": 4,
+      "upgradeLevels": [
+        14,
+        14,
+        14,
+        14
+      ],
+      "upgradeMaxLevels": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "levelUpsPerPurchase": 5,
+      "upgradeCurveOverride": "linear",
+      "vehicleUpgradePriceCurve": {
+        "cost": {
+          "currency": "event_points",
+          "amount": 0
+        },
+        "priceCurve": [
+          1,
+          2,
+          3,
+          5
+        ]
+      },
+      "tuningPartUpgradePriceCurves": [
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            1
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            2
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            3
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dunebuggy",
+      "allowCustomization": false,
+      "availableTuningParts": [
+        {
+          "id": "dunebuggy_start_boost",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "dunebuggy_magnet",
+          "level": 5,
+          "upgradeMaxLevel": 15,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "dunebuggy_perfect_landing_boost",
+          "level": 2,
+          "upgradeMaxLevel": 7,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "dunebuggy_nitro",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "dunebuggy_fuel_boost",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "dunebuggy_coin_boost",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "dunebuggy_fume_boost",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "dunebuggy_winter_tyres",
+          "level": 5,
+          "upgradeMaxLevel": 15,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "dunebuggy_jump",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "dunebuggy_afterburner",
+          "level": 2,
+          "upgradeMaxLevel": 7,
+          "levelUpsPerPurchase": 2
+        }
+      ],
+      "tuningPartSlots": 3,
+      "upgradeLevels": [
+        14,
+        14,
+        14,
+        14
+      ],
+      "upgradeMaxLevels": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "levelUpsPerPurchase": 5,
+      "upgradeCurveOverride": "linear",
+      "vehicleUpgradePriceCurve": {
+        "cost": {
+          "currency": "event_points",
+          "amount": 0
+        },
+        "priceCurve": [
+          1,
+          2,
+          3,
+          5
+        ]
+      },
+      "tuningPartUpgradePriceCurves": [
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            1
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            2
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            3
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stock",
+      "allowCustomization": false,
+      "availableTuningParts": [
+        {
+          "id": "stock_start_boost",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "stock_magnet",
+          "level": 5,
+          "upgradeMaxLevel": 15,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "stock_perfect_landing_boost",
+          "level": 2,
+          "upgradeMaxLevel": 7,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "stock_nitro",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "stock_fuel_boost",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "stock_coin_boost",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "stock_fume_boost",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "stock_winter_tyres",
+          "level": 5,
+          "upgradeMaxLevel": 15,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "stock_jump",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "stock_afterburner",
+          "level": 2,
+          "upgradeMaxLevel": 7,
+          "levelUpsPerPurchase": 2
+        }
+      ],
+      "tuningPartSlots": 3,
+      "upgradeLevels": [
+        14,
+        14,
+        14,
+        14
+      ],
+      "upgradeMaxLevels": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "levelUpsPerPurchase": 5,
+      "upgradeCurveOverride": "linear",
+      "vehicleUpgradePriceCurve": {
+        "cost": {
+          "currency": "event_points",
+          "amount": 0
+        },
+        "priceCurve": [
+          1,
+          2,
+          3,
+          5
+        ]
+      },
+      "tuningPartUpgradePriceCurves": [
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            1
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            2
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            3
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "musclecar",
+      "allowCustomization": false,
+      "availableTuningParts": [
+        {
+          "id": "musclecar_start_boost",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "musclecar_magnet",
+          "level": 5,
+          "upgradeMaxLevel": 15,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "musclecar_perfect_landing_boost",
+          "level": 2,
+          "upgradeMaxLevel": 7,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "musclecar_nitro",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "musclecar_fuel_boost",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "musclecar_coin_boost",
+          "level": 1,
+          "upgradeMaxLevel": 4,
+          "levelUpsPerPurchase": 1
+        },
+        {
+          "id": "musclecar_fume_boost",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "musclecar_winter_tyres",
+          "level": 5,
+          "upgradeMaxLevel": 15,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "musclecar_jump",
+          "level": 3,
+          "upgradeMaxLevel": 10,
+          "levelUpsPerPurchase": 2
+        },
+        {
+          "id": "musclecar_afterburner",
+          "level": 2,
+          "upgradeMaxLevel": 7,
+          "levelUpsPerPurchase": 2
+        }
+      ],
+      "tuningPartSlots": 3,
+      "upgradeLevels": [
+        14,
+        14,
+        14,
+        14
+      ],
+      "upgradeMaxLevels": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "levelUpsPerPurchase": 5,
+      "upgradeCurveOverride": "linear",
+      "vehicleUpgradePriceCurve": {
+        "cost": {
+          "currency": "event_points",
+          "amount": 0
+        },
+        "priceCurve": [
+          1,
+          2,
+          3,
+          5
+        ]
+      },
+      "tuningPartUpgradePriceCurves": [
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            1
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            2
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            3
+          ]
+        },
+        {
+          "cost": {
+            "currency": "event_points",
+            "amount": 0
+          },
+          "priceCurve": [
+            5
+          ]
+        }
+      ]
+    }
+  ]
+}
