@@ -15114,7 +15114,7 @@
                 "currencies": [
                     {
                         "currency": "research_points",
-                        "amount": 1000000
+                        "amount": 5000
                     }
                 ]
             },
