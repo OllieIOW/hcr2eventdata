@@ -7,7 +7,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_scooter",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "scooter"
                 ]
@@ -20,7 +20,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_jeep",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "jeep"
                 ]
@@ -33,7 +33,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_bus",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "bus"
                 ]
@@ -46,7 +46,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_mk2",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "superjeep"
                 ]
@@ -59,7 +59,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_tractor",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "tractor"
                 ]
@@ -72,7 +72,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_motocross",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "motocross"
                 ]
@@ -85,7 +85,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_dunebuggy",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "dunebuggy"
                 ]
@@ -98,7 +98,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_sportscar",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "sportscar"
                 ]
@@ -111,7 +111,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_monster",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "monster"
                 ]
@@ -124,7 +124,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_upsidedown",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "upsidedown"
                 ]
@@ -137,7 +137,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_pickup_truck",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "pickup_truck"
                 ]
@@ -150,7 +150,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_chopper",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "chopper"
                 ]
@@ -163,7 +163,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_minitank",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "minitank"
                 ]
@@ -176,7 +176,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_lowrider",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "lowrider"
                 ]
@@ -189,7 +189,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_snowmobile",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "snowmobile"
                 ]
@@ -202,7 +202,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_monowheel",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "monowheel"
                 ]
@@ -215,7 +215,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_beast",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "beast"
                 ]
@@ -228,7 +228,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_rally",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "rally"
                 ]
@@ -241,7 +241,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_formula",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "formula"
                 ]
@@ -254,7 +254,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_musclecar",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "musclecar"
                 ]
@@ -267,7 +267,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_racing_truck",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "racing_truck"
                 ]
@@ -280,7 +280,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_hotrod",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "hotrod"
                 ]
@@ -293,7 +293,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_electric_car",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "electric_car"
                 ]
@@ -306,7 +306,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_superbike",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "superbike"
                 ]
@@ -319,7 +319,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_lambo",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "lambo"
                 ]
@@ -332,7 +332,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_moonlander",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "moonlander"
                 ]
@@ -345,7 +345,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_rockbouncer",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "rockbouncer"
                 ]
@@ -358,7 +358,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_hoverbike",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "hoverbike"
                 ]
@@ -371,7 +371,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_raider",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "raider"
                 ]
@@ -384,7 +384,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_glider",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "glider"
                 ]
@@ -397,7 +397,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_trusty",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "trusty"
                 ]
@@ -410,7 +410,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_atv",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "atv"
                 ]
@@ -423,7 +423,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_super_offroad",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "super_offroad"
                 ]
@@ -436,7 +436,7 @@
             },
             "lootDefinition": {
                 "id": "event_reward_stock",
-                "unlockVehicleLevel": 20,
+                "unlockVehicleLevel": 1,
                 "unlockVehicles": [
                     "stock"
                 ]
