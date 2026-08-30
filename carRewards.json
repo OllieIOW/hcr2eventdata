@@ -1,0 +1,446 @@
+{
+    "eventRewards": [
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_scooter",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "scooter"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_jeep",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "jeep"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_bus",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "bus"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_mk2",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "superjeep"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_tractor",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "tractor"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_motocross",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "motocross"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_dunebuggy",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "dunebuggy"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_sportscar",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "sportscar"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_monster",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "monster"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_upsidedown",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "upsidedown"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_pickup_truck",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "pickup_truck"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_chopper",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "chopper"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_minitank",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "minitank"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_lowrider",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "lowrider"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_snowmobile",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "snowmobile"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_monowheel",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "monowheel"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_beast",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "beast"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_rally",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "rally"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_formula",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "formula"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_musclecar",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "musclecar"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_racing_truck",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "racing_truck"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_hotrod",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "hotrod"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_electric_car",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "electric_car"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_superbike",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "superbike"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_lambo",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "lambo"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_moonlander",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "moonlander"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_rockbouncer",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "rockbouncer"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_hoverbike",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "hoverbike"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_raider",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "raider"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_glider",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "glider"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_trusty",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "trusty"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_atv",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "atv"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_super_offroad",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "super_offroad"
+                ]
+            }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_stock",
+                "unlockVehicleLevel": 20,
+                "unlockVehicles": [
+                    "stock"
+                ]
+            }
+        }
+    ]
+}
