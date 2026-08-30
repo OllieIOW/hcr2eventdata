@@ -6,10 +6,10 @@
                 "type": "score"
             },
             "lootDefinition": {
-                "id": "event_reward_scooter",
+                "id": "event_reward_jeep",
                 "unlockVehicleLevel": 1,
                 "unlockVehicles": [
-                    "scooter"
+                    "jeep"
                 ]
             }
         },
@@ -19,10 +19,10 @@
                 "type": "score"
             },
             "lootDefinition": {
-                "id": "event_reward_jeep",
+                "id": "event_reward_scooter",
                 "unlockVehicleLevel": 1,
                 "unlockVehicles": [
-                    "jeep"
+                    "scooter"
                 ]
             }
         },
