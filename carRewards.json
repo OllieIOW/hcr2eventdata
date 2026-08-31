@@ -441,6 +441,19 @@
                     "stock"
                 ]
             }
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_havoc",
+                "unlockVehicleLevel": 1,
+                "unlockVehicles": [
+                    "havoc"
+                ]
+            }
         }
     ]
 }
