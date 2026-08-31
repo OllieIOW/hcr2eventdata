@@ -451,7 +451,7 @@
                 "id": "event_reward_havoc",
                 "unlockVehicleLevel": 1,
                 "unlockVehicles": [
-                    "havoc"
+                    "rocketKart"
                 ]
             }
         }
