@@ -6966,6 +6966,82 @@
                     {
                         "id": "stock_echo",
                         "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_magnet",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_heavyweight",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_glide",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_air_control",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_winter_tyres",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_rollcage",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_start_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_wheelie_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_fume_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_flip_speed_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_jump",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_perfect_landing_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_afterburner",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_thrusters",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_fuel_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_coin_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_nitro",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_amplifier",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_echo",
+                        "amount": 1
                     }
                 ],
                 "unlockAdventureMaps": [
@@ -14428,6 +14504,82 @@
                     },
                     {
                         "id": "stock_echo",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_magnet",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_heavyweight",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_glide",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_air_control",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_winter_tyres",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_rollcage",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_start_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_wheelie_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_fume_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_flip_speed_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_jump",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_perfect_landing_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_afterburner",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_thrusters",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_fuel_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_coin_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_nitro",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_amplifier",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_echo",
                         "amount": 1
                     }
                 ]
