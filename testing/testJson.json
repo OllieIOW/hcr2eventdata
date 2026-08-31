@@ -1,1 +1,21 @@
-
+{
+  "eventRewards": [
+      {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_sled",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "sled",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    }
+  ]
+}
