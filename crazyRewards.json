@@ -4397,17 +4397,17 @@
                     {
                         "partId": "wheel",
                         "variantId": "stock_tire-vip",
-                        "vehicleId": "stock"
+                        "vehicleId": "rocketkart"
                     },
                     {
                         "partId": "wheel",
                         "variantId": "rocketkart_tire-rare",
-                        "vehicleId": "stock"
+                        "vehicleId": "rocketkart"
                     },
                     {
                         "partId": "wheel",
                         "variantId": "rocketkart_tire-vip",
-                        "vehicleId": "stock"
+                        "vehicleId": "rocketkart"
                     }
                 ],
                 "tuningParts": [
@@ -9896,6 +9896,54 @@
                     {
                         "vehicleId": "stock",
                         "paintId": "VIP"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_blue_common"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_gray_common"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_green_common"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_red_common"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_yellow_common"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_curves_rare"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_darkburst_rare"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_speckled_rare"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_starburst_rare"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_swirls_rare"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_swoop_rare"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "VIP"
                     }
                 ],
                 "unlockVehicleSpriteVariants": [
@@ -11798,6 +11846,21 @@
                         "partId": "wheel",
                         "variantId": "stock_tire-vip",
                         "vehicleId": "stock"
+                    },
+                    {
+                        "partId": "wheel",
+                        "variantId": "stock_tire-vip",
+                        "vehicleId": "rocketkart"
+                    },
+                    {
+                        "partId": "wheel",
+                        "variantId": "rocketkart_tire-rare",
+                        "vehicleId": "rocketkart"
+                    },
+                    {
+                        "partId": "wheel",
+                        "variantId": "rocketkart_tire-vip",
+                        "vehicleId": "rocketkart"
                     }
                 ]
             },
