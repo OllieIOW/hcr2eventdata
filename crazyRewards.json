@@ -42,7 +42,8 @@
                     "trusty",
                     "atv",
                     "super_offroad",
-                    "stock"
+                    "stock",
+                    "rocketkart"
                 ],
                 "unlockDriverAssets": [
                     "10th_anniversary_bill_premium",
@@ -229,6 +230,7 @@
                     "rockbouncer",
                     "rocker",
                     "rotator",
+                    "rocketkart",
                     "rusty_premium",
                     "saki_premium",
                     "samurai",
