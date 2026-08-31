@@ -453,7 +453,8 @@
                 "unlockVehicles": [
                     "rocketkart"
                 ]
-            }
+            },
+            "maxCollectAmount": -1
         }
     ]
 }
