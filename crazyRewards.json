@@ -20462,6 +20462,23 @@
                 ]
             },
             "maxCollectAmount": -1
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_mythicVC_havoc",
+                "vehicleChests": [
+                    {
+                        "chestId": "mythic",
+                        "vehicleId": "rocketkart",
+                        "targetIndex": 0
+                    }
+                ]
+            },
+            "maxCollectAmount": -1
         }
     ]
 }
