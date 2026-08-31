@@ -18737,6 +18737,23 @@
                 "type": "score"
             },
             "lootDefinition": {
+                "id": "event_reward_rareVC_havoc",
+                "vehicleChests": [
+                    {
+                        "chestId": "rare",
+                        "vehicleId": "rocketkart",
+                        "targetIndex": 0
+                    }
+                ]
+            },
+            "maxCollectAmount": -1
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
                 "id": "event_reward_epicVC_jeep",
                 "vehicleChests": [
                     {
@@ -19315,6 +19332,23 @@
                 "type": "score"
             },
             "lootDefinition": {
+                "id": "event_reward_epicVC_havoc",
+                "vehicleChests": [
+                    {
+                        "chestId": "epic",
+                        "vehicleId": "rocketkart",
+                        "targetIndex": 0
+                    }
+                ]
+            },
+            "maxCollectAmount": -1
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
                 "id": "event_reward_legendaryVC_jeep",
                 "vehicleChests": [
                     {
@@ -19881,6 +19915,23 @@
                     {
                         "chestId": "legendary",
                         "vehicleId": "stock",
+                        "targetIndex": 0
+                    }
+                ]
+            },
+            "maxCollectAmount": -1
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_legendaryVC_havoc",
+                "vehicleChests": [
+                    {
+                        "chestId": "legendary",
+                        "vehicleId": "rocketkart",
                         "targetIndex": 0
                     }
                 ]
