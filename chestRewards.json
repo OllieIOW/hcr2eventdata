@@ -1,2384 +1,2657 @@
 {
-    "eventRewards": [
+  "eventRewards": [
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_common",
+        "chests": [
+          "common"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_uncommon",
+        "chests": [
+          "uncommon"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rare",
+        "chests": [
+          "rare"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epic",
+        "chests": [
+          "epic"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_champion",
+        "chests": [
+          "champion"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_tutorial",
+        "chests": [
+          "tutorial"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_xmas",
+        "chests": [
+          "xmas"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendary",
+        "chests": [
+          "legendary"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_free",
+        "chests": [
+          "free"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_vip",
+        "chests": [
+          "vip"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_vip2",
+        "chests": [
+          "vip2"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_video",
+        "chests": [
+          "video"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_tutorial_looks",
+        "chests": [
+          "tutorial_looks"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_tutorial_tuningparts",
+        "chests": [
+          "tutorial_tuningparts"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_xpromo",
+        "chests": [
+          "xpromo"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mega",
+        "chests": [
+          "mega"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendary_team",
+        "chests": [
+          "legendary_team"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_vip_diamond",
+        "chests": [
+          "vip_diamond"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_team_support",
+        "chests": [
+          "team_support"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_style",
+        "chests": [
+          "style"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythic",
+        "chests": [
+          "mythic"
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_jeep",
+        "vehicleChests": [
           {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_jeep",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "jeep",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_scooter",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "scooter",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_bus",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "bus",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_superjeep",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "superjeep",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_tractor",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "tractor",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_motocross",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "motocross",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_dunebuggy",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "dunebuggy",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_sportscar",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "sportscar",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_monster",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "monster",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_upsidedown",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "upsidedown",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_pickup_truck",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "pickup_truck",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_chopper",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "chopper",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_minitank",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "minitank",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_lowrider",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "lowrider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_snowmobile",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "snowmobile",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_monowheel",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "monowheel",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_beast",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "beast",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_rally",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "rally",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_formula",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "formula",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_musclecar",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "musclecar",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_racing_truck",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "racing_truck",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_hotrod",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "hotrod",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_electric_car",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "electric_car",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_superbike",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "superbike",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_lambo",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "lambo",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_moonlander",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "moonlander",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_rockbouncer",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "rockbouncer",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_hoverbike",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "hoverbike",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_raider",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "raider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_glider",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "glider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_trusty",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "trusty",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_atv",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "atv",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_super_offroad",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "super_offroad",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_stock",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "stock",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_rareVC_havoc",
-                "vehicleChests": [
-                    {
-                        "chestId": "rare",
-                        "vehicleId": "rocketkart",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_jeep",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "jeep",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_scooter",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "scooter",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_bus",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "bus",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_superjeep",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "superjeep",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_tractor",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "tractor",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_motocross",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "motocross",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_dunebuggy",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "dunebuggy",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_sportscar",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "sportscar",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_monster",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "monster",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_upsidedown",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "upsidedown",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_pickup_truck",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "pickup_truck",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_chopper",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "chopper",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_minitank",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "minitank",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_lowrider",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "lowrider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_snowmobile",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "snowmobile",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_monowheel",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "monowheel",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_beast",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "beast",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_rally",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "rally",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_formula",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "formula",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_musclecar",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "musclecar",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_racing_truck",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "racing_truck",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_hotrod",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "hotrod",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_electric_car",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "electric_car",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_superbike",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "superbike",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_lambo",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "lambo",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_moonlander",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "moonlander",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_rockbouncer",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "rockbouncer",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_hoverbike",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "hoverbike",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_raider",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "raider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_glider",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "glider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_trusty",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "trusty",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_atv",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "atv",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_super_offroad",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "super_offroad",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_stock",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "stock",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_epicVC_havoc",
-                "vehicleChests": [
-                    {
-                        "chestId": "epic",
-                        "vehicleId": "rocketkart",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_jeep",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "jeep",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_scooter",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "scooter",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_bus",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "bus",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_superjeep",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "superjeep",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_tractor",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "tractor",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_motocross",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "motocross",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_dunebuggy",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "dunebuggy",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_sportscar",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "sportscar",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_monster",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "monster",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_upsidedown",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "upsidedown",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_pickup_truck",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "pickup_truck",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_chopper",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "chopper",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_minitank",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "minitank",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_lowrider",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "lowrider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_snowmobile",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "snowmobile",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_monowheel",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "monowheel",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_beast",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "beast",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_rally",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "rally",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_formula",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "formula",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_musclecar",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "musclecar",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_racing_truck",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "racing_truck",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_hotrod",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "hotrod",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_electric_car",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "electric_car",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_superbike",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "superbike",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_lambo",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "lambo",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_moonlander",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "moonlander",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_rockbouncer",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "rockbouncer",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_hoverbike",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "hoverbike",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_raider",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "raider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_glider",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "glider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_trusty",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "trusty",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_atv",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "atv",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_super_offroad",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "super_offroad",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_stock",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "stock",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_legendaryVC_havoc",
-                "vehicleChests": [
-                    {
-                        "chestId": "legendary",
-                        "vehicleId": "rocketkart",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_jeep",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "jeep",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_scooter",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "scooter",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_bus",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "bus",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_superjeep",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "superjeep",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_tractor",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "tractor",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_motocross",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "motocross",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_dunebuggy",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "dunebuggy",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_sportscar",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "sportscar",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_monster",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "monster",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_upsidedown",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "upsidedown",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_pickup_truck",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "pickup_truck",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_chopper",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "chopper",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_minitank",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "minitank",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_lowrider",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "lowrider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_snowmobile",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "snowmobile",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_monowheel",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "monowheel",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_beast",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "beast",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_rally",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "rally",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_formula",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "formula",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_musclecar",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "musclecar",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_racing_truck",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "racing_truck",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_hotrod",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "hotrod",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_electric_car",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "electric_car",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_superbike",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "superbike",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_lambo",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "lambo",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_moonlander",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "moonlander",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_rockbouncer",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "rockbouncer",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_hoverbike",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "hoverbike",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_raider",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "raider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_glider",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "glider",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_trusty",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "trusty",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_atv",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "atv",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_super_offroad",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "super_offroad",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_stock",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "stock",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        },
-        {
-            "rewardCondition": {
-                "criteria": 0,
-                "type": "score"
-            },
-            "lootDefinition": {
-                "id": "event_reward_mythicVC_havoc",
-                "vehicleChests": [
-                    {
-                        "chestId": "mythic",
-                        "vehicleId": "rocketkart",
-                        "targetIndex": 0
-                    }
-                ]
-            },
-            "maxCollectAmount": -1
-        }
-    ]
+            "chestId": "rare",
+            "vehicleId": "jeep",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_scooter",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "scooter",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_bus",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "bus",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_superjeep",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "superjeep",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_tractor",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "tractor",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_motocross",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "motocross",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_dunebuggy",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "dunebuggy",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_sportscar",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "sportscar",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_monster",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "monster",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_upsidedown",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "upsidedown",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_pickup_truck",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "pickup_truck",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_chopper",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "chopper",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_minitank",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "minitank",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_lowrider",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "lowrider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_snowmobile",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "snowmobile",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_monowheel",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "monowheel",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_beast",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "beast",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_rally",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "rally",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_formula",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "formula",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_musclecar",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "musclecar",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_racing_truck",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "racing_truck",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_hotrod",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "hotrod",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_electric_car",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "electric_car",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_superbike",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "superbike",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_lambo",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "lambo",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_moonlander",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "moonlander",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_rockbouncer",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "rockbouncer",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_hoverbike",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "hoverbike",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_raider",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "raider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_glider",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "glider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_trusty",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "trusty",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_atv",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "atv",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_super_offroad",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "super_offroad",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_stock",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "stock",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_havoc",
+        "vehicleChests": [
+          {
+            "chestId": "rare",
+            "vehicleId": "rocketkart",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_jeep",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "jeep",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_scooter",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "scooter",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_bus",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "bus",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_superjeep",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "superjeep",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_tractor",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "tractor",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_motocross",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "motocross",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_dunebuggy",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "dunebuggy",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_sportscar",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "sportscar",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_monster",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "monster",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_upsidedown",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "upsidedown",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_pickup_truck",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "pickup_truck",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_chopper",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "chopper",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_minitank",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "minitank",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_lowrider",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "lowrider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_snowmobile",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "snowmobile",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_monowheel",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "monowheel",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_beast",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "beast",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_rally",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "rally",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_formula",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "formula",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_musclecar",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "musclecar",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_racing_truck",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "racing_truck",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_hotrod",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "hotrod",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_electric_car",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "electric_car",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_superbike",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "superbike",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_lambo",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "lambo",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_moonlander",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "moonlander",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_rockbouncer",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "rockbouncer",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_hoverbike",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "hoverbike",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_raider",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "raider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_glider",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "glider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_trusty",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "trusty",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_atv",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "atv",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_super_offroad",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "super_offroad",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_stock",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "stock",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_epicVC_havoc",
+        "vehicleChests": [
+          {
+            "chestId": "epic",
+            "vehicleId": "rocketkart",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_jeep",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "jeep",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_scooter",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "scooter",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_bus",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "bus",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_superjeep",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "superjeep",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_tractor",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "tractor",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_motocross",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "motocross",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_dunebuggy",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "dunebuggy",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_sportscar",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "sportscar",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_monster",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "monster",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_upsidedown",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "upsidedown",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_pickup_truck",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "pickup_truck",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_chopper",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "chopper",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_minitank",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "minitank",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_lowrider",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "lowrider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_snowmobile",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "snowmobile",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_monowheel",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "monowheel",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_beast",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "beast",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_rally",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "rally",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_formula",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "formula",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_musclecar",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "musclecar",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_racing_truck",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "racing_truck",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_hotrod",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "hotrod",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_electric_car",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "electric_car",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_superbike",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "superbike",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_lambo",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "lambo",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_moonlander",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "moonlander",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_rockbouncer",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "rockbouncer",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_hoverbike",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "hoverbike",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_raider",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "raider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_glider",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "glider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_trusty",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "trusty",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_atv",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "atv",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_super_offroad",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "super_offroad",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_stock",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "stock",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_legendaryVC_havoc",
+        "vehicleChests": [
+          {
+            "chestId": "legendary",
+            "vehicleId": "rocketkart",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_jeep",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "jeep",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_scooter",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "scooter",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_bus",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "bus",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_superjeep",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "superjeep",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_tractor",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "tractor",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_motocross",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "motocross",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_dunebuggy",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "dunebuggy",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_sportscar",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "sportscar",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_monster",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "monster",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_upsidedown",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "upsidedown",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_pickup_truck",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "pickup_truck",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_chopper",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "chopper",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_minitank",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "minitank",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_lowrider",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "lowrider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_snowmobile",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "snowmobile",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_monowheel",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "monowheel",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_beast",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "beast",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_rally",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "rally",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_formula",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "formula",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_musclecar",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "musclecar",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_racing_truck",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "racing_truck",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_hotrod",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "hotrod",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_electric_car",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "electric_car",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_superbike",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "superbike",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_lambo",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "lambo",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_moonlander",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "moonlander",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_rockbouncer",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "rockbouncer",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_hoverbike",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "hoverbike",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_raider",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "raider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_glider",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "glider",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_trusty",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "trusty",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_atv",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "atv",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_super_offroad",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "super_offroad",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_stock",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "stock",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_mythicVC_havoc",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "rocketkart",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    }
+  ]
 }
