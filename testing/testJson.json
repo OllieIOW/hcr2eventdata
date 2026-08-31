@@ -16,6 +16,40 @@
         ]
       },
       "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_doughnut",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "doughnut",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 0,
+        "type": "score"
+      },
+      "lootDefinition": {
+        "id": "event_reward_rareVC_snowboard",
+        "vehicleChests": [
+          {
+            "chestId": "mythic",
+            "vehicleId": "snowboard",
+            "targetIndex": 0
+          }
+        ]
+      },
+      "maxCollectAmount": -1
     }
   ]
 }
