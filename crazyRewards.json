@@ -7016,6 +7016,10 @@
                         "amount": 1
                     },
                     {
+                        "id": "rocketkart_turbo_boost",
+                        "amount": 1
+                    },
+                    {
                         "id": "rocketkart_afterburner",
                         "amount": 1
                     },
@@ -14552,6 +14556,10 @@
                     },
                     {
                         "id": "rocketkart_perfect_landing_boost",
+                        "amount": 1
+                    },
+                    {
+                        "id": "rocketkart_turbo_boost",
                         "amount": 1
                     },
                     {
