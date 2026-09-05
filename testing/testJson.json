@@ -2,17 +2,12 @@
   "eventRewards": [
     {
       "rewardCondition": {
-        "criteria": 0,
-        "type": "score"
+        "criteria": 1000000,
+        "type": "gold"
       },
       "lootDefinition": {
         "id": "coinburner",
-        "currencies": [
-          {
-            "currency": "coins",
-            "amount": -1000000
-          }
-        ]
+        "coinAmount": 1
       },
       "maxCollectAmount": -1
     },
