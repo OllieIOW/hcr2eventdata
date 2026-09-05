@@ -2,7 +2,7 @@
   "eventRewards": [
     {
       "rewardCondition": {
-        "criteria": 1000000
+        "coinAmount": 1000000
       },
       "lootDefinition": {
         "id": "coinburner",
