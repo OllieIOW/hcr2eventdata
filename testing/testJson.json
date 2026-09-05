@@ -2,23 +2,23 @@
   "eventRewards": [
     {
       "rewardCondition": {
-        "criteria": 1000000,
-        "type": "coins"
+        "criteria": 0,
+        "type": "score"
       },
       "lootDefinition": {
         "id": "coinburner",
-        "coinAmount": 1
+        "coinAmount": -1000000
       },
       "maxCollectAmount": -1
     },
     {
       "rewardCondition": {
-        "criteria": 5000,
-        "type": "gems"
+        "criteria": 0,
+        "type": "score"
       },
       "lootDefinition": {
         "id": "gemburner",
-        "gemAmount": 1
+        "gemAmount": -5000
       },
       "maxCollectAmount": -1
     },
@@ -32,7 +32,7 @@
         "currencies": [
           {
             "currency": "scrap",
-            "amount": -1
+            "amount": -100000
           }
         ]
       },
