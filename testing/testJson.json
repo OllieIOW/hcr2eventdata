@@ -7,7 +7,12 @@
       },
       "lootDefinition": {
         "id": "coinburner",
-        "coinAmount": -1000000
+        "currencies": [
+          {
+            "currency": "coins",
+            "amount": -1000000
+          }
+        ]
       },
       "maxCollectAmount": -1
     },
@@ -18,7 +23,12 @@
       },
       "lootDefinition": {
         "id": "gemburner",
-        "gemAmount": -5000
+        "currencies": [
+          {
+            "currency": "gems",
+            "amount": -15000
+          }
+        ]
       },
       "maxCollectAmount": -1
     },
