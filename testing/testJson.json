@@ -23,7 +23,7 @@
       },
       "lootDefinition": {
         "id": "gemburner",
-        "gemAmount": 0
+        "gemAmount": 1
       },
       "maxCollectAmount": -1
     },
