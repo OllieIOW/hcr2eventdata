@@ -2,15 +2,31 @@
   "eventRewards": [
     {
       "rewardCondition": {
-        "criteria": 0,
-        "type": "score"
+        "criteria": 1000000,
+        "type": "coins"
       },
       "lootDefinition": {
         "id": "test_reward_1",
         "currencies": [
           {
-            "currency": "research_points",
-            "amount": 1000000
+            "currency": "coins",
+            "amount": 1
+          }
+        ]
+      },
+      "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 5000,
+        "type": "gems"
+      },
+      "lootDefinition": {
+        "id": "test_reward_2",
+        "currencies": [
+          {
+            "currency": "gems",
+            "amount": 1
           }
         ]
       },
