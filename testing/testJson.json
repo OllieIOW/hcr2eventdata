@@ -24,15 +24,15 @@
     },
     {
       "rewardCondition": {
-        "criteria": 1000000,
-        "type": "scrap"
+        "criteria": 0,
+        "type": "score"
       },
       "lootDefinition": {
         "id": "scrapburner",
         "currencies": [
           {
             "currency": "scrap",
-            "amount": 1
+            "amount": -1
           }
         ]
       },
