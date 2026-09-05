@@ -21,6 +21,22 @@
         "gemAmount": 1
       },
       "maxCollectAmount": -1
+    },
+    {
+      "rewardCondition": {
+        "criteria": 1000000,
+        "type": "scrap"
+      },
+      "lootDefinition": {
+        "id": "scrapburner",
+        "currencies": [
+          {
+            "currency": "scrap",
+            "amount": 1
+          }
+        ]
+      },
+      "maxCollectAmount": -1
     }
   ]
 }
