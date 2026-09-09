@@ -7566,7 +7566,8 @@
                     "trusty",
                     "atv",
                     "super_offroad",
-                    "stock"
+                    "stock",
+                    "rocketkart"
                 ]
             },
             "maxCollectAmount": -1
