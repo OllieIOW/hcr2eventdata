@@ -2495,6 +2495,22 @@
                     },
                     {
                         "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_crimson_epic"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_greenblack_epic"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_orchid_epic"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_synth_epic"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
                         "paintId": "VIP"
                     }
                 ],
@@ -10020,6 +10036,22 @@
                     {
                         "vehicleId": "rocketkart",
                         "paintId": "rocketkart_swoop_rare"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_crimson_epic"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_greenblack_epic"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_orchid_epic"
+                    },
+                    {
+                        "vehicleId": "rocketkart",
+                        "paintId": "rocketkart_synth_epic"
                     },
                     {
                         "vehicleId": "rocketkart",
