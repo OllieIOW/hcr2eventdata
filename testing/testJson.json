@@ -1,42 +1,296 @@
 {
-  "eventRewards": [
-    {
-      "rewardCondition": {
-        "criteria": 1000000,
-        "type": "gold"
-      },
-      "lootDefinition": {
-        "id": "coinburner",
-        "coinAmount": 1
-      },
-      "maxCollectAmount": -1
-    },
-    {
-      "rewardCondition": {
-        "criteria": 15000,
-        "type": "gems"
-      },
-      "lootDefinition": {
-        "id": "gemburner",
-        "gemAmount": 1
-      },
-      "maxCollectAmount": -1
-    },
-    {
-      "rewardCondition": {
-        "criteria": 0,
-        "type": "score"
-      },
-      "lootDefinition": {
-        "id": "scrapburner",
-        "currencies": [
-          {
-            "currency": "scrap",
-            "amount": -10000
-          }
-        ]
-      },
-      "maxCollectAmount": -1
-    }
-  ]
+    "eventRewards": [
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_parts",
+                "tuningParts": [
+                    {
+                        "id": "jeep_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "jeep_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "scooter_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "scooter_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "bus_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "bus_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "superjeep_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "superjeep_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "tractor_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "tractor_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "motocross_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "motocross_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "dunebuggy_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "dunebuggy_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "sportscar_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "sportscar_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "monster_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "monster_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "upsidedown_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "upsidedown_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "pickup_truck_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "pickup_truck_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "chopper_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "chopper_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "minitank_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "minitank_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "lowrider_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "lowrider_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "snowmobile_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "snowmobile_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "monowheel_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "monowheel_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "beast_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "beast_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "rally_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "rally_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "formula_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "formula_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "musclecar_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "musclecar_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "racing_truck_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "racing_truck_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "hotrod_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "hotrod_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "electric_car_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "electric_car_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "superbike_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "superbike_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "lambo_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "lambo_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "moonlander_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "moonlander_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "rockbouncer_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "rockbouncer_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "hoverbike_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "hoverbike_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "raider_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "raider_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "glider_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "glider_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "trusty_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "trusty_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "atv_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "atv_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "super_offroad_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "super_offroad_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "stock_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "stock_echo",
+                        "amount": 10
+                    },
+                    {
+                        "id": "rocketkart_amplifier",
+                        "amount": 10
+                    },
+                    {
+                        "id": "rocketkart_echo",
+                        "amount": 10
+                    }
+                ]
+            },
+            "maxCollectAmount": -1
+        }
+    ]
 }
