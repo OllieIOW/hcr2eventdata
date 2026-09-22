@@ -15250,8 +15250,8 @@
                 "type": "score"
             },
             "lootDefinition": {
-                "id": "event_reward_coins",
-                "coinAmount": 100000000
+                "id": "event_reward_coins_100k",
+                "coinAmount": 100000
             },
             "maxCollectAmount": -1
         },
@@ -15261,8 +15261,30 @@
                 "type": "score"
             },
             "lootDefinition": {
-                "id": "event_reward_gems",
-                "gemAmount": 15000
+                "id": "event_reward_coins_1m",
+                "coinAmount": 1000000
+            },
+            "maxCollectAmount": -1
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_gems_1k",
+                "gemAmount": 1000
+            },
+            "maxCollectAmount": -1
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_gems_5k",
+                "gemAmount": 5000
             },
             "maxCollectAmount": -1
         },
@@ -15288,11 +15310,11 @@
                 "type": "score"
             },
             "lootDefinition": {
-                "id": "event_reward_special_tickets",
+                "id": "event_reward_special_tickets_100",
                 "currencies": [
                     {
                         "currency": "special_tickets",
-                        "amount": 100000
+                        "amount": 100
                     }
                 ]
             },
@@ -15304,11 +15326,27 @@
                 "type": "score"
             },
             "lootDefinition": {
-                "id": "event_reward_adventure_token",
+                "id": "event_reward_adventure_token_1k",
                 "currencies": [
                     {
                         "currency": "adventure_token",
-                        "amount": 100000
+                        "amount": 1000
+                    }
+                ]
+            },
+            "maxCollectAmount": -1
+        },
+        {
+            "rewardCondition": {
+                "criteria": 0,
+                "type": "score"
+            },
+            "lootDefinition": {
+                "id": "event_reward_adventure_token_10k",
+                "currencies": [
+                    {
+                        "currency": "adventure_token",
+                        "amount": 10000
                     }
                 ]
             },
@@ -15324,7 +15362,7 @@
                 "currencies": [
                     {
                         "currency": "challenge_tickets",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
@@ -15340,7 +15378,7 @@
                 "currencies": [
                     {
                         "currency": "distance_tickets",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
@@ -15356,7 +15394,7 @@
                 "currencies": [
                     {
                         "currency": "moon_tickets",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
@@ -15372,7 +15410,7 @@
                 "currencies": [
                     {
                         "currency": "event_points",
-                        "amount": 100000
+                        "amount": 100
                     }
                 ]
             },
@@ -15388,7 +15426,7 @@
                 "currencies": [
                     {
                         "currency": "vehicle_blueprint",
-                        "amount": 100000
+                        "amount": 100
                     }
                 ]
             },
@@ -15404,7 +15442,7 @@
                 "currencies": [
                     {
                         "currency": "video_skips",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
@@ -15420,7 +15458,7 @@
                 "currencies": [
                     {
                         "currency": "gacha_token",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
@@ -15436,7 +15474,7 @@
                 "currencies": [
                     {
                         "currency": "team_coins",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
@@ -15452,7 +15490,7 @@
                 "currencies": [
                     {
                         "currency": "chest_key",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
@@ -15468,7 +15506,7 @@
                 "currencies": [
                     {
                         "currency": "reroll_parts_token",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
@@ -15484,7 +15522,7 @@
                 "currencies": [
                     {
                         "currency": "winstreak_shield",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
@@ -15532,7 +15570,7 @@
                 "currencies": [
                     {
                         "currency": "gem_spawn_token",
-                        "amount": 100000
+                        "amount": 10000
                     }
                 ]
             },
@@ -15564,7 +15602,7 @@
                 "currencies": [
                     {
                         "currency": "style_points",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
@@ -15580,7 +15618,7 @@
                 "currencies": [
                     {
                         "currency": "event_tickets",
-                        "amount": 100000
+                        "amount": 1000
                     }
                 ]
             },
