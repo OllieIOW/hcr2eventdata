@@ -2447,6 +2447,10 @@
                     },
                     {
                         "vehicleId": "stock",
+                        "paintId": "stock_flame_mythic"
+                    },
+                    {
+                        "vehicleId": "stock",
                         "paintId": "VIP"
                     },
                     {
@@ -4408,6 +4412,16 @@
                     {
                         "partId": "wheel",
                         "variantId": "stock_tire-drak_premium",
+                        "vehicleId": "stock"
+                    },
+                    {
+                        "partId": "wheel",
+                        "variantId": "stock_tire-flame_mythic",
+                        "vehicleId": "stock"
+                    },
+                    {
+                        "partId": "wheel",
+                        "variantId": "stock_tire-vip",
                         "vehicleId": "stock"
                     },
                     {
@@ -10012,6 +10026,10 @@
                     },
                     {
                         "vehicleId": "stock",
+                        "paintId": "stock_flame_mythic"
+                    },
+                    {
+                        "vehicleId": "stock",
                         "paintId": "VIP"
                     },
                     {
@@ -11973,6 +11991,11 @@
                     {
                         "partId": "wheel",
                         "variantId": "stock_tire-drak_premium",
+                        "vehicleId": "stock"
+                    },
+                    {
+                        "partId": "wheel",
+                        "variantId": "stock_tire-flame_mythic",
                         "vehicleId": "stock"
                     },
                     {
